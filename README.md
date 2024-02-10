@@ -75,8 +75,8 @@
 
 
 ## Untuk repositorynya bisa klik link di bawah ini
-### [Repository Pemesanan makanan](#)
-### [Payment](#)
+### [Repository Pemesanan makanan](https://github.com/salmanalfarizqi/laravel)
+### [Payment](https://github.com/salmanalfarizqi/paymentapi)
 
 ## ***Jangan Lupa Follow Media Sosial Kreator dan berikan star untuk repositorinya***
 
